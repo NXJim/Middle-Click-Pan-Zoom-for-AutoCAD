@@ -1,4 +1,4 @@
-# Middle-Click-Pan-Zoom-for-AutoCAD
+# Touchpad Middle Click Pan & Zoom for AutoCAD
 AHK script and executable files that mimic a middle click for the purpose of simple pan and zoom in AutoCAD when using a touchpad/trackpad.
 
 *** Your touchpad/trackpad must have some method to perform a "middle click", similar to clicking a mouse wheel. In my case, I have configured mine to "middle click" when I perform a three-finger click. ***
