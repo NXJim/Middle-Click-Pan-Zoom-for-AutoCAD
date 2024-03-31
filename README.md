@@ -10,3 +10,11 @@ The executable file runs in the system tray awaiting a middle click. When it det
 - If the active window <b>IS</b> AutoCAD, the utility sends the following keystrokes: P (enter)
   - this enters PAN mode which allows both zooming and panning (Scroll to zoom, left click and drag to pan)
   - middle click a second time to exit pan mode (sends ESC)
+<br>
+<hr>
+<br>
+To use it simply download the EXE file from this repository and run it -- that's it! It will sit neatly in your sytem tray until you close it. Note: You'll have to launch it after every reboot unless you add it to your Windows startup folder.
+<br>
+&nbsp
+<br>
+Or, if you use <a href="https://www.autohotkey.com/">AutoHotKey<a>, you can download the script to run or modify.
